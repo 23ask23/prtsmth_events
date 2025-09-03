@@ -1,39 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" version="2.0">
   <channel>
     <title>Visit Portsmouth - Things to Do</title>
     <description>Upcoming events from Visit Portsmouth</description>
     <link>https://www.visitportsmouth.co.uk/things-to-do</link>
 
-    <!-- Alpha Females -->
     <item>
       <title>Alpha Females</title>
       <description><![CDATA[
 <p>What does it mean to be an Alpha Female in 2025?</p>
-
 <p>Artist Cat. A invites audiences into her loud, funny, and deeply personal world with Alpha Females — a bold new free exhibition opening this September at Art Space Portsmouth.</p>
-
 <p>The exhibition showcases Cat's text-based artworks created over the last two years — a mash-up of hand-painted slogans, overheard conversations, and private feelings blasted onto public objects. Whether it's a cardboard pyramid critiquing Reform UK while celebrating Shania Twain, or a flag confronting an ex's racist family members, Cat's work is deeply personal, sharply political, and disarmingly funny.</p>
-
 <p>Using discarded materials, charity shop finds, and whatever's hiding in someone's cupboard, Cat transforms everyday objects into protest banners, t-shirts, and emotional outbursts. Her pieces are painted in a distinct freeform capital-letter style using acrylics and Posca pens — raw, urgent, and unmistakably her own.</p>
-
-<p>Highlights include:</p>
-<ul>
-<li>"Reasons Not to Call Him" — an artist's book of illustrated dating reflections, shown alongside 24 prints from its pages</li>
-<li>Personal banners like "Hannah Smith Is My Religion"</li>
-<li>Rants in paint about ex-boyfriends, the fear of scented candles, and Jacob Rees-Mogg</li>
-<li>Bunting and flags reimagined as miniature protest sites</li>
-</ul>
-
+<p>Highlights include:<br/>
+* "Reasons Not to Call Him" — an artist's book of illustrated dating reflections, shown alongside 24 prints from its pages<br/>
+* Personal banners like "Hannah Smith Is My Religion"<br/>
+* Rants in paint about ex-boyfriends, the fear of scented candles, and Jacob Rees-Mogg<br/>
+* Bunting and flags reimagined as miniature protest sites</p>
 <p>While often humorous, the work digs deeper — exploring modern dating, identity, social justice, and the fine line between public performance and private catharsis. "My work is my therapy," Cat says, "but I hope people laugh. Or at least feel seen."</p>
-
 <p>Join Art Space Portsmouth for a no-filter artist's talk on Sunday 7 September, where Cat A will speak about her process, personal inspirations, and the sometimes absurd relationship between art, activism, and exes.</p>
-
-<p>Dates and times:<br/>
-Exhibition runs: 6–21 September, Wednesdays to Sundays, 12–4pm</p>
+<p><strong>Opening Times</strong><br/>Exhibition (6 Sept 2025 - 21 Sept 2025) — Wednesday - Sunday 12:00 - 16:00</p>
       ]]></description>
       <content:encoded><![CDATA[
-        <p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?image=%2Fdmsimgs%2FIAL_1466821801.jpg" alt="Two women on Southsea Common. One is pregnant, the other holds a white banner on which red text reads: It's all lies" /></p>
+<p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?image=%2Fdmsimgs%2FIAL_1466821801.jpg" /></p>
       ]]></content:encoded>
       <location>
         Venue Name: Art Space Portsmouth<br/>
@@ -45,67 +33,29 @@ Exhibition runs: 6–21 September, Wednesdays to Sundays, 12–4pm</p>
       <link>https://www.visitportsmouth.co.uk/whats-on/alpha-females-p2651371</link>
       <guid isPermaLink="true">https://www.visitportsmouth.co.uk/whats-on/alpha-females-p2651371</guid>
       <pubDate>Wed, 03 Sep 2025 00:00:00 +0100</pubDate>
-      <startDate>Sat, 06 Sep 2025 12:00:00 +0100</startDate>
-      <endDate>Sun, 21 Sep 2025 16:00:00 +0100</endDate>
-      <geo:lat></geo:lat>
-      <geo:long></geo:long>
+      <startDate>Sat, 06 Sep 2025 00:00:00 +0100</startDate>
+      <endDate>Sun, 21 Sep 2025 23:59:59 +0100</endDate>
+      <lat></lat>
+      <long></long>
     </item>
 
-    <!-- Heritage Open Days - People and Places of WW1 -->
     <item>
       <title>Heritage Open Days - The people and places of World War 1</title>
       <description><![CDATA[
-<p>The World War 1 Remembrance Centre in Portsmouth is dedicated to the eternal memory of those who fought and died in the conflict.</p>
-
-<p>The Centre houses many artefacts from World War 1 as well as models, memorabilia and displays telling the human stories behind the historical headlines. If, for instance, you don't know how World War 1 links the Titanic to Alice in Wonderland, you'll find out there!</p>
-
-<p>As well as offering free entry and a large free car park, the centre has volunteers that provide free guided tours of the centre, which is housed in a 160-year-old brick-built military bastion in the north of Portsmouth.</p>
-
-<p>Throughout the year, the centre opens from 11am to 2pm on Sundays and Tuesdays - Thursdays.</p>
-      ]]></description>
-      <content:encoded><![CDATA[
-        <p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?action=ProductDetailImage&image=%2Fdmsimgs%2FHODs_listing_257574817.jpg" alt="Image: Blue and white illustration of Architecture for Heritage Open Days 2025" /></p>
-      ]]></content:encoded>
-      <location>
-        Venue Name: World War 1 Remembrance Centre<br/>
-        Street: Bastion 6, Airport Service Road<br/>
-        City: Portsmouth<br/>
-        County: Hampshire<br/>
-        Postcode: PO3 5PJ
-      </location>
-      <link>https://www.visitportsmouth.co.uk/whats-on/heritage-open-days-the-people-and-places-of-world-war-1-p2655101</link>
-      <guid isPermaLink="true">https://www.visitportsmouth.co.uk/whats-on/heritage-open-days-the-people-and-places-of-world-war-1-p2655101</guid>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 +0100</pubDate>
-      <startDate>Sun, 14 Sep 2025 11:00:00 +0100</startDate>
-      <endDate>Thu, 18 Sep 2025 14:00:00 +0100</endDate>
-      <geo:lat></geo:lat>
-      <geo:long></geo:long>
-    </item>
-
-    <!-- Heritage Open Days - WWI Remembrance Centre -->
-    <item>
-      <title>Heritage Open Days - WWI Remembrance Centre</title>
-      <description><![CDATA[
 <p>The WW1 Remembrance Centre throws open its doors for the public with fascinating tours of its interesting and historically significant collection.</p>
-
 <p>The museum building has bombproof vaulted ceilings and was designed to provide gun emplacements protecting the guns and their crews against the forces of Napoleon. The guns were arranged in the gallery and the building also provided armament stores and nine accommodation rooms for the men. The museum now contains WW1 artefacts and exhibits from the founder's personal collection, together with donated items.</p>
-
 <p>On the day, volunteer guides will walk visitors through the timeline, offering up exciting and unusual stories from the Great War.</p>
-
 <p>With so much to see, many visitors return to the WW1 Remembrance Centre several times - there really is something for all ages.</p>
-
 <p>Many of the exhibits (but not all) have foreign language translations and a volunteer at the centre is able to communicate in BSL.</p>
-
 <p>With no mains supplies, the WW1 Remembrance Centre generates its own power, for everything from lighting to running model trains.</p>
-
-<p>Tours will take place between 11am and 3pm on the following dates in September: Sunday 14, Tuesday 16, Wednesday 17, Thursday 18, Sunday 21.</p>
+<p><strong>Opening Times</strong><br/>Tours (14 Sept 2025 - 21 Sept 2025) — Tours are offered between 11am and 3pm on the following dates: Sunday 14, Tuesday 16, Wednesday 17, Thursday 18, Sunday 21</p>
       ]]></description>
       <content:encoded><![CDATA[
-        <p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?action=ProductDetailImage&image=%2Fdmsimgs%2FHODs_listing_1959983689.jpg" alt="Image: Illustration to promote Heritage Open Days' theme for 2025: architecture" /></p>
+<p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?action=ProductDetailImage&image=%2Fdmsimgs%2FHODs_listing_1959983689.jpg" /></p>
       ]]></content:encoded>
       <location>
-        Venue Name: World War 1 Remembrance Centre<br/>
-        Street: Bastion 6, Airport Service Road<br/>
+        Venue Name: Bastion 6, Airport Service Road<br/>
+        Street: Airport Service Road<br/>
         City: Portsmouth<br/>
         County: Hampshire<br/>
         Postcode: PO3 5PJ
@@ -113,29 +63,54 @@ Exhibition runs: 6–21 September, Wednesdays to Sundays, 12–4pm</p>
       <link>https://www.visitportsmouth.co.uk/whats-on/heritage-open-days-wwi-remembrance-centre-p1334451</link>
       <guid isPermaLink="true">https://www.visitportsmouth.co.uk/whats-on/heritage-open-days-wwi-remembrance-centre-p1334451</guid>
       <pubDate>Wed, 03 Sep 2025 00:00:00 +0100</pubDate>
-      <startDate>Sun, 14 Sep 2025 11:00:00 +0100</startDate>
-      <endDate>Sun, 21 Sep 2025 15:00:00 +0100</endDate>
-      <geo:lat></geo:lat>
-      <geo:long></geo:long>
+      <startDate>Sun, 14 Sep 2025 00:00:00 +0100</startDate>
+      <endDate>Sun, 21 Sep 2025 23:59:59 +0100</endDate>
+      <lat></lat>
+      <long></long>
     </item>
 
-    <!-- Beaded Necklace Workshop -->
+    <item>
+      <title>Heritage Open Days - The People's Parks of Hampshire Exhibition</title>
+      <description><![CDATA[
+<p>The Hampshire Gardens Trust Research Group has completed a comprehensive survey of all urban parks in Hampshire, and is now hosting an exhibition showcasing four years of meticulous research. The 'People's Parks of Hampshire Exhibition' delves into the rich history and significance of Hampshire's public towns and gardens, presenting the survey results of urban parks.</p>
+<p>The pandemic lockdowns underscored the vital role of local green spaces in our health and well-being. Now, more than ever, it's crucial to recognise and protect these areas.</p>
+<p>This exhibition illustrates the evolution of public parks from the mid-19th century to today, featuring numerous images and descriptions of parks across Hampshire's diverse towns and cities.</p>
+<p><strong>Opening Times</strong><br/>The People's Parks of Hampshire Exhibition (17 Sept 2025 - 21 Sept 2025) — Wednesday - Sunday 10:00 - 14:00</p>
+      ]]></description>
+      <content:encoded><![CDATA[
+<p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?action=ProductDetailImage&image=%2Fdmsimgs%2FHODs_listing_11282429.jpg" /></p>
+      ]]></content:encoded>
+      <location>
+        Venue Name: Victoria Park<br/>
+        Street: Victoria Park<br/>
+        City: Portsmouth<br/>
+        County: Hampshire<br/>
+        Postcode: PO1 3HJ
+      </location>
+      <link>https://www.visitportsmouth.co.uk/whats-on/heritage-open-days-the-peoples-parks-of-hampshire-exhibition-p2655081</link>
+      <guid isPermaLink="true">https://www.visitportsmouth.co.uk/whats-on/heritage-open-days-the-peoples-parks-of-hampshire-exhibition-p2655081</guid>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0100</pubDate>
+      <startDate>Wed, 17 Sep 2025 00:00:00 +0100</startDate>
+      <endDate>Sun, 21 Sep 2025 23:59:59 +0100</endDate>
+      <lat></lat>
+      <long></long>
+    </item>
+
     <item>
       <title>Beaded Necklace Workshop</title>
       <description><![CDATA[
 <p>Join artist Libbie Coulson from '26th of May' for a relaxed and creative necklace-making workshop, where you'll design and make your own beaded necklace using high-quality Czech fire-polished beads and Miyuki bugle beads.</p>
-
-<p>You'll finish your piece with a sterling silver clasp, giving it a polished, professional finish. This one-and-a-half to two hour session is perfect for beginners and jewellery lovers alike. We'll start by practising how to finish your necklace securely, giving you a chance to get confident before using your sterling silver findings. Once you've got the technique down, you'll move on to selecting your own colours and designing a necklace that reflects your personal style.</p>
-
+<p>You'll finish your piece with a sterling silver clasp, giving it a polished, professional finish.</p>
+<p>This one-and-a-half to two hour session is perfect for beginners and jewellery lovers alike. We'll start by practising how to finish your necklace securely, giving you a chance to get confident before using your sterling silver findings. Once you've got the technique down, you'll move on to selecting your own colours and designing a necklace that reflects your personal style.</p>
 <p>Whether you're looking for a mindful creative moment, or hoping to leave with a meaningful handmade gift, this workshop offers a welcoming space to learn new skills, connect with others, and create something you'll be proud to wear.</p>
-
 <p>All materials are provided, and no previous experience is necessary.</p>
+<p><strong>Opening Times</strong><br/>3 September (3 Sept 2025) — Wednesday 18:00 - 20:00<br/>6 September (6 Sept 2025) — Saturday 15:00 - 17:00<br/>17 September (17 Sept 2025) — Wednesday 18:00 - 20:00<br/>20 September (20 Sept 2025) — Saturday 15:00 - 17:00</p>
       ]]></description>
       <content:encoded><![CDATA[
-        <p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?action=ProductDetailImage&image=%2Fdmsimgs%2FVisit-portsmouth-necklaces_1243888346_1370082226.jpg" alt="Image: A number of beaded necklaces with different coloured beads." /></p>
+<p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?action=ProductDetailImage&image=%2Fdmsimgs%2FVisit-portsmouth-necklaces_1243888346_1370082226.jpg" /></p>
       ]]></content:encoded>
       <location>
-        Venue Name: Hotwalls Studios (Studio 11)<br/>
+        Venue Name: Studio 11, Hotwalls Studios<br/>
         Street: Broad Street<br/>
         City: Portsmouth<br/>
         County: Hampshire<br/>
@@ -144,24 +119,22 @@ Exhibition runs: 6–21 September, Wednesdays to Sundays, 12–4pm</p>
       <link>https://www.visitportsmouth.co.uk/whats-on/beaded-necklace-workshop-p2632251</link>
       <guid isPermaLink="true">https://www.visitportsmouth.co.uk/whats-on/beaded-necklace-workshop-p2632251</guid>
       <pubDate>Wed, 03 Sep 2025 00:00:00 +0100</pubDate>
-      <startDate>Wed, 03 Sep 2025 18:00:00 +0100</startDate>
-      <endDate>Sat, 20 Sep 2025 17:00:00 +0100</endDate>
-      <geo:lat></geo:lat>
-      <geo:long></geo:long>
+      <startDate>Wed, 03 Sep 2025 00:00:00 +0100</startDate>
+      <endDate>Sat, 20 Sep 2025 23:59:59 +0100</endDate>
+      <lat></lat>
+      <long></long>
     </item>
 
-    <!-- The Simon and Garfunkel Story -->
     <item>
       <title>The Simon and Garfunkel Story</title>
       <description><![CDATA[
-<p>Few shows have experienced the phenomenal global success of The Simon & Garfunkel Story. It has racked up multiple sold-out shows in over 50-countries worldwide, as well as more than 20 headline performances in London's West End, including multiple appearances at the world-famous London Palladium.</p>
-
-<p>Using huge projection photos and original film footage, the international hit show tells the story of the origins and meteoric rise of Simon & Garfunkel blended together seamlessly with a full live band performing all the hits, including Mrs Robinson, Cecilia, Bridge Over Troubled Water, Homeward Bound and many more.</p>
-
+<p>Few shows have experienced the phenomenal global success of The Simon &amp; Garfunkel Story. It has racked up multiple sold-out shows in over 50-countries worldwide, as well as more than 20 headline performances in London's West End, including multiple appearances at the world-famous London Palladium.</p>
+<p>Using huge projection photos and original film footage, the international hit show tells the story of the origins and meteoric rise of Simon &amp; Garfunkel blended together seamlessly with a full live band performing all the hits, including Mrs Robinson, Cecilia, Bridge Over Troubled Water, Homeward Bound and many more.</p>
 <p>With standing ovations at every performance and the show Art Garfunkel himself loved, you don’t want to miss this international sensation.</p>
+<p><strong>Opening Times</strong><br/>The Simon and Garfunkel Story (17 Sept 2025) — Wednesday 19:30</p>
       ]]></description>
       <content:encoded><![CDATA[
-        <p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?action=ProductDetailImage&image=%2Fdmsimgs%2FSimon_and_Garfunkel_640088184.jpg" alt="Image: Poster for The Simon and Garfunkel Story" /></p>
+<p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?action=ProductDetailImage&image=%2Fdmsimgs%2FSimon_and_Garfunkel_640088184.jpg" /></p>
       ]]></content:encoded>
       <location>
         Venue Name: New Theatre Royal<br/>
@@ -173,144 +146,174 @@ Exhibition runs: 6–21 September, Wednesdays to Sundays, 12–4pm</p>
       <link>https://www.visitportsmouth.co.uk/whats-on/the-simon-and-garfunkel-story-p2622481</link>
       <guid isPermaLink="true">https://www.visitportsmouth.co.uk/whats-on/the-simon-and-garfunkel-story-p2622481</guid>
       <pubDate>Wed, 03 Sep 2025 00:00:00 +0100</pubDate>
-      <startDate>Wed, 17 Sep 2025 19:30:00 +0100</startDate>
-      <endDate>Wed, 17 Sep 2025 19:30:00 +0100</endDate>
-      <geo:lat></geo:lat>
-      <geo:long></geo:long>
+      <startDate>Wed, 17 Sep 2025 00:00:00 +0100</startDate>
+      <endDate>Wed, 17 Sep 2025 23:59:59 +0100</endDate>
+      <lat></lat>
+      <long></long>
     </item>
 
-<item>
-  <title>Heritage Open Days - The People's Parks of Hampshire Exhibition</title>
-  <description><![CDATA[
-<p>The Hampshire Gardens Trust Research Group has completed a comprehensive survey of all urban parks in Hampshire, and is now hosting an exhibition showcasing four years of meticulous research. The 'People's Parks of Hampshire Exhibition' delves into the rich history and significance of Hampshire's public towns and gardens, presenting the survey results of urban parks.</p>
-
-<p>The pandemic lockdowns underscored the vital role of local green spaces in our health and well-being. Now, more than ever, it's crucial to recognise and protect these areas.</p>
-
-<p>This exhibition illustrates the evolution of public parks from the mid-19th century to today, featuring numerous images and descriptions of parks across Hampshire's diverse towns and cities.</p>
-]]></description>
-  <content:encoded><![CDATA[
-    <p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?action=ProductDetailImage&image=%2Fdmsimgs%2FHODs_listing_11282429.jpg" alt="Architecture: The theme for Heritage Open Days 2025" /></p>
-  ]]></content:encoded>
-  <location>
-    Venue Name: Victoria Park<br/>
-    City: Portsmouth<br/>
-    County: Hampshire<br/>
-    Postcode: PO1 3HJ
-  </location>
-  <link>https://www.visitportsmouth.co.uk/whats-on/heritage-open-days-the-peoples-parks-of-hampshire-exhibition-p2655081</link>
-  <guid isPermaLink="true">https://www.visitportsmouth.co.uk/whats-on/heritage-open-days-the-peoples-parks-of-hampshire-exhibition-p2655081</guid>
-  <pubDate>Wed, 03 Sep 2025 00:00:00 +0100</pubDate>
-  <startDate>Wed, 17 Sep 2025 10:00:00 +0100</startDate>
-  <endDate>Sun, 21 Sep 2025 14:00:00 +0100</endDate>
-  <geo:lat></geo:lat>
-  <geo:long></geo:long>
-</item>
-
-<item>
-  <title>In Memory of Black Tot Day</title>
-  <description><![CDATA[
+    <item>
+      <title>In Memory of Black Tot Day</title>
+      <description><![CDATA[
 <p>Join Sally Port Tours for an informative talk about the wonders and history of Navy rum - which will convince attendees that 54% - 57% proof rum is a joy to taste!</p>
-
 <p>The earliest record of rum being given out on British ships was in 1655 when they won the battle for Jamaica against the Spanish. As they didn’t have enough of any other spirits, Admiral William Penn decided to give the crew a measure of rum as a reward. However this is not when the official rum rations on the Royal Navy ships started. It was in 1731 when the daily rum tot became official – or more exactly, the daily half pint of over-proof rum.</p>
-
 <p>Admiral Edward Vernon – nicknamed Old Grog after his silk and mohair Grogram coat – declared in 1740 that the rum given the sailors (daily, it's worth reminding), be cut in half and diluted with water. This drink was aptly named Grog. Some of us are familiar with the Navy Grog drink which, according to tale, was “spiced up” with limes and sugar. However, while a good story, it’s not entirely verified.</p>
-
 <p>Because of this practice, the Royal Navy unintentionally became one of the biggest rum blenders in the world, having approximately 4 million gallons stored in large wooden vats at any time. These were continuously refilled with cane spirit from different countries, depending on the availability. The main ones were Guyana, Barbados, Trinidad and Jamaica, although not limited to them, making the navy rum a continuous evolving world blend with no set recipe.</p>
-
 <p>After Black Tot Day, on the last day of July 1970, all the remaining stock of the Royal Navy was stored in stone flaggons (4.55 litres each) and put away in the Navy Victualling yards. Sukhinder Singh, The Whisky Exchange founder, managed to get his hands on some of these flagons which were blended together and released as the Black Tot Last Consignment in 2010, on the 40th anniversary of the Black Tot Day.</p>
-
 <p>This talk, held at The Sally Port Inn and run in conjunction with Sally Port Walks and Talks, takes place from 6.15pm to 8pm on 18 September 2025.</p>
-
 <p>All attendees will be given the opportunity to taste three Navy rums, as the owner of the Sally Port Inn stated; 'two Navy rums from the middle range and one from the top shelf'. To start the evening off, Mark S is also supplying a taster rum at 40% so that guests really know when they've had a subsequent 54% - 57% Navy rum.</p>
-
 <p>This is an exclusive event so numbers will be limited.</p>
-]]></description>
-  <content:encoded><![CDATA[
-    <p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?action=ProductDetailImage&image=%2Fdmsimgs%2FThe_3_Black_Tot_Rums_784577271.jpg" alt="Photograph of three Black Tot rums" /></p>
-  ]]></content:encoded>
-  <location>
-    Venue Name: The Sally Port Inn<br/>
-    Street: 57-58 High Street<br/>
-    City: Old Portsmouth<br/>
-    County: Hampshire<br/>
-    Postcode: PO1 2LU
-  </location>
-  <link>https://www.visitportsmouth.co.uk/whats-on/in-memory-of-black-tot-day-p2654311</link>
-  <guid isPermaLink="true">https://www.visitportsmouth.co.uk/whats-on/in-memory-of-black-tot-day-p2654311</guid>
-  <pubDate>Wed, 03 Sep 2025 00:00:00 +0100</pubDate>
-  <startDate>Thu, 18 Sep 2025 18:15:00 +0100</startDate>
-  <endDate>Thu, 18 Sep 2025 20:00:00 +0100</endDate>
-  <geo:lat></geo:lat>
-  <geo:long></geo:long>
-</item>
+<p><strong>Opening Times</strong><br/>In Memory of Black Tot Day (18 Sept 2025) — Thursday 18:15 - 20:00</p>
+      ]]></description>
+      <content:encoded><![CDATA[
+<p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?action=ProductDetailImage&image=%2Fdmsimgs%2FThe_3_Black_Tot_Rums_784577271.jpg" /></p>
+      ]]></content:encoded>
+      <location>
+        Venue Name: The Sally Port Inn<br/>
+        Street: 57-58 High Street<br/>
+        City: Old Portsmouth<br/>
+        County: Hampshire<br/>
+        Postcode: PO1 2LU
+      </location>
+      <link>https://www.visitportsmouth.co.uk/whats-on/in-memory-of-black-tot-day-p2654311</link>
+      <guid isPermaLink="true">https://www.visitportsmouth.co.uk/whats-on/in-memory-of-black-tot-day-p2654311</guid>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0100</pubDate>
+      <startDate>Thu, 18 Sep 2025 00:00:00 +0100</startDate>
+      <endDate>Thu, 18 Sep 2025 23:59:59 +0100</endDate>
+      <lat></lat>
+      <long></long>
+    </item>
 
-<item>
-  <title>Energy Unleashed</title>
-  <description><![CDATA[
+    <item>
+      <title>Energy Unleashed</title>
+      <description><![CDATA[
 <p>Join the Bournemouth Symphony Orchestra at Portsmouth Guildhall on Thursday 18 September for an evening of energetic symphonies.</p>
-
 <p>The orchestra will be joined once again by Calleva Assistant Conductor Enyi Okpara, who conducts the beloved works of Mendelssohn, Mozart and Beethoven alongside pianist Clare Hammond.</p>
-
 <p>Mendelssohn's musical postcard of a trip to the remote island of Staffa conjures up a whole seascape, including the grandeur of Fingal's Cave, the swelling of the sea, the light on the water and the fury of the waves breaking on the monumental cliffs.</p>
-
 <p>Mozart's Piano Concerto No.21 is built on a to the wide scale of a full symphonic orchestra, with an orchestral backing that matches the solo part for interest and variety. Forcefulness, elegance and wit are perfectly balanced. The dreamlike pace is based on the simplest of materials; its effect is magical, whilst the concluding refrain echoes with the laughter of comic opera.</p>
-
 <p>Beethoven's Seventh Symphony's appeal is not hard to understand. With boundless energy and rhythmic force the music rages forward, almost demonically, with climax after climax, right to the brilliant final notes and one of the most thrilling endings in all music.</p>
+<p><strong>Works and composers:</strong><br/>Mendelssohn - Hebrides Overture<br/>Mozart - Piano Concerto No.21 K.467<br/>Beethoven - Symphony No.7</p>
+<p><strong>Opening Times</strong><br/>Energy Unleashed (18 Sept 2025) — Thursday 19:00 - 21:00</p>
+      ]]></description>
+      <content:encoded><![CDATA[
+<p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?action=ProductDetailImage&image=%2Fdmsimgs%2FBSO_-_Energy_Unleashed_1653646635.jpg" /></p>
+      ]]></content:encoded>
+      <location>
+        Venue Name: Portsmouth Guildhall<br/>
+        Street: Guildhall Square<br/>
+        City: Portsmouth<br/>
+        County: Hampshire<br/>
+        Postcode: PO1 2AB
+      </location>
+      <link>https://www.visitportsmouth.co.uk/whats-on/energy-unleashed-p2615051</link>
+      <guid isPermaLink="true">https://www.visitportsmouth.co.uk/whats-on/energy-unleashed-p2615051</guid>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0100</pubDate>
+      <startDate>Thu, 18 Sep 2025 00:00:00 +0100</startDate>
+      <endDate>Thu, 18 Sep 2025 23:59:59 +0100</endDate>
+      <lat></lat>
+      <long></long>
+    </item>
 
-<p>Works and composers:<br/>
-Mendelssohn - Hebrides Overture<br/>
-Mozart - Piano Concerto No.21 K.467<br/>
-Beethoven - Symphony No.7</p>
-]]></description>
-  <content:encoded><![CDATA[
-    <p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?action=ProductDetailImage&image=%2Fdmsimgs%2FBSO_-_Energy_Unleashed_1653646635.jpg" alt="Three members of the Bournemouth Symphony Orchestra with their instruments" /></p>
-  ]]></content:encoded>
-  <location>
-    Venue Name: Portsmouth Guildhall<br/>
-    Street: Guildhall Square<br/>
-    City: Portsmouth<br/>
-    County: Hampshire<br/>
-    Postcode: PO1 2AB
-  </location>
-  <link>https://www.visitportsmouth.co.uk/whats-on/energy-unleashed-p2615051</link>
-  <guid isPermaLink="true">https://www.visitportsmouth.co.uk/whats-on/energy-unleashed-p2615051</guid>
-  <pubDate>Wed, 03 Sep 2025 00:00:00 +0100</pubDate>
-  <startDate>Thu, 18 Sep 2025 19:00:00 +0100</startDate>
-  <endDate>Thu, 18 Sep 2025 21:00:00 +0100</endDate>
-  <geo:lat></geo:lat>
-  <geo:long></geo:long>
-</item>
-
-<item>
-  <title>The Take That Experience</title>
-  <description><![CDATA[
+    <item>
+      <title>The Take That Experience</title>
+      <description><![CDATA[
 <p>As Take That celebrate over 30 years as the UK's number one boy band, The Take That Experience marks over a decade together as their most popular and recognised tribute act.</p>
-
 <p>With acclaimed vocal performances, stunning replica costumes and iconic dance routines, The Take That Experience recreates the magic of Take That live on stage with their 'Greatest Hits Tour'.</p>
-
-<p>This incredible show features hit after hit from Take That’s career spanning three decades – from  classic 90s hits through to their most recent triumphs. Songs include Pray, Relight My Fire, Patience,  Shine, These Days, Rule The World and many more.</p>
-
+<p>This incredible show features hit after hit from Take That’s career spanning three decades – from classic 90s hits through to their most recent triumphs. Songs include Pray, Relight My Fire, Patience, Shine, These Days, Rule The World and many more.</p>
 <p>The show also features the one and only 'Robbie Williams' who brings alive songs such as 'Angels’, ‘Rock DJ’ and ‘Candy’ to an already explosive show.</p>
-]]></description>
-  <content:encoded><![CDATA[
-    <p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?action=ProductDetailImage&image=%2Fdmsimgs%2FTAKE_THAT_POST_4_628764799_282933487.png" alt="Three members of The Take That Experience performing a dance routine." /></p>
-  ]]></content:encoded>
-  <location>
-    Venue Name: New Theatre Royal<br/>
-    Street: 20-24 Guildhall Walk<br/>
-    City: Portsmouth<br/>
-    County: Hampshire<br/>
-    Postcode: PO1 2DD
-  </location>
-  <link>https://www.visitportsmouth.co.uk/whats-on/the-take-that-experience-p2620431</link>
-  <guid isPermaLink="true">https://www.visitportsmouth.co.uk/whats-on/the-take-that-experience-p2620431</guid>
-  <pubDate>Wed, 03 Sep 2025 00:00:00 +0100</pubDate>
-  <startDate>Thu, 18 Sep 2025 19:30:00 +0100</startDate>
-  <endDate>Thu, 18 Sep 2025 19:30:00 +0100</endDate>
-  <geo:lat></geo:lat>
-  <geo:long></geo:long>
-</item>
+<p><strong>Opening Times</strong><br/>The Take That Experience (18 Sept 2025) — Thursday 19:30</p>
+      ]]></description>
+      <content:encoded><![CDATA[
+<p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?action=ProductDetailImage&image=%2Fdmsimgs%2FTAKE_THAT_POST_4_628764799_282933487.png" /></p>
+      ]]></content:encoded>
+      <location>
+        Venue Name: New Theatre Royal<br/>
+        Street: 20-24 Guildhall Walk<br/>
+        City: Portsmouth<br/>
+        County: Hampshire<br/>
+        Postcode: PO1 2DD
+      </location>
+      <link>https://www.visitportsmouth.co.uk/whats-on/the-take-that-experience-p2620431</link>
+      <guid isPermaLink="true">https://www.visitportsmouth.co.uk/whats-on/the-take-that-experience-p2620431</guid>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0100</pubDate>
+      <startDate>Thu, 18 Sep 2025 00:00:00 +0100</startDate>
+      <endDate>Thu, 18 Sep 2025 23:59:59 +0100</endDate>
+      <lat></lat>
+      <long></long>
+    </item>
 
+    <item>
+      <title>Hal Cruttenden: Can Dish it Out But Can't Take it</title>
+      <description><![CDATA[
+<p>Hal is back with a brand-new tour for 2025 with a show that promises to stick it to 'The Man', as long as 'The Man' doesn't stick it back to him. With his trademark style, Hal will be hilariously pontificating on subjects like middle aged dating, social media, the insanity of modern politics and the fact that his daughters love him but don't respect him. He believes that, after you've seen the show, you'll feel exactly the same way.</p>
+<p>His last tour was extended four times and he's one of a select number of comics to have done Live At The Apollo three times and the Royal Variety twice.</p>
+      ]]></description>
+      <content:encoded><![CDATA[
+<p><img src="" /></p>
+      ]]></content:encoded>
+      <location>
+        Venue Name: The New Theatre Royal<br/>
+        Street: 20-24 Guildhall Walk<br/>
+        City: Portsmouth<br/>
+        County: Hampshire<br/>
+        Postcode: PO1 2DD
+      </location>
+      <link>https://www.visitportsmouth.co.uk/whats-on/hal-cruttenden-can-dish-it-out-but-cant-take-it-p2650441</link>
+      <guid isPermaLink="true">https://www.visitportsmouth.co.uk/whats-on/hal-cruttenden-can-dish-it-out-but-cant-take-it-p2650441</guid>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0100</pubDate>
+      <startDate>Thu, 18 Sep 2025 00:00:00 +0100</startDate>
+      <endDate>Thu, 18 Sep 2025 23:59:59 +0100</endDate>
+      <lat></lat>
+      <long></long>
+    </item>
+
+    <item>
+      <title>Heritage Open Days - Portsmouth Cathedral Organ Tour</title>
+      <description><![CDATA[
+<p>Join Portsmouth Cathedral for an exciting tour, delving into the unusual architecture history of its organ.</p>
+      ]]></description>
+      <content:encoded><![CDATA[
+<p><img src="" /></p>
+      ]]></content:encoded>
+      <location>
+        Venue Name: Portsmouth Cathedral, St. Thomas'<br/>
+        Street: High Street<br/>
+        City: Old Portsmouth<br/>
+        County: Hampshire<br/>
+        Postcode: PO1 2HA
+      </location>
+      <link>https://www.visitportsmouth.co.uk/whats-on/heritage-open-days-portsmouth-cathedral-organ-tour-p2655121</link>
+      <guid isPermaLink="true">https://www.visitportsmouth.co.uk/whats-on/heritage-open-days-portsmouth-cathedral-organ-tour-p2655121</guid>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0100</pubDate>
+      <startDate>Thu, 18 Sep 2025 00:00:00 +0100</startDate>
+      <endDate>Thu, 18 Sep 2025 23:59:59 +0100</endDate>
+      <lat></lat>
+      <long></long>
+    </item>
+
+    <item>
+      <title>Silver Stacking Rings Workshop</title>
+      <description><![CDATA[
+<p>During the session, you'll make three rings in the same size so they stack perfectly together: one from round wire, one from twisted wire, and one from textured square wire. With clear demonstrations and plenty of one-to-one guidance, you'll be supported every step of the way. The workshop is designed to be hands-on and relaxed, with lots of opportunities to ask questions, making it perfect for complete beginners. The price includes all materials to make three sterling silver stacking rings.</p>
+      ]]></description>
+      <content:encoded><![CDATA[
+<p><img src="" /></p>
+      ]]></content:encoded>
+      <location>
+        Venue Name: Hotwalls Studios<br/>
+        Street: Broad Street<br/>
+        City: Old Portsmouth<br/>
+        County: Hampshire<br/>
+        Postcode: PO1 2FS
+      </location>
+      <link>https://www.visitportsmouth.co.uk/whats-on/silver-stacking-rings-workshop-p2629481</link>
+      <guid isPermaLink="true">https://www.visitportsmouth.co.uk/whats-on/silver-stacking-rings-workshop-p2629481</guid>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0100</pubDate>
+      <startDate>Fri, 19 Sep 2025 00:00:00 +0100</startDate>
+      <endDate>Fri, 19 Sep 2025 23:59:59 +0100</endDate>
+      <lat></lat>
+      <long></long>
+    </item>
 
   </channel>
 </rss>
