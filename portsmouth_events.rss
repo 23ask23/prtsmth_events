@@ -2,35 +2,38 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" version="2.0">
   <channel>
     <title>Visit Portsmouth - Things to Do</title>
-    <description>Upcoming events from Visit Derby</description>
+    <description>Upcoming events from Visit Portsmouth</description>
     <link>https://www.visitportsmouth.co.uk/things-to-do</link>
 
+    <!-- Alpha Females -->
     <item>
       <title>Alpha Females</title>
-      <description>What does it mean to be an Alpha Female in 2025?
+      <description><![CDATA[
+<p>What does it mean to be an Alpha Female in 2025?</p>
 
-Artist Cat. A invites audiences into her loud, funny, and deeply personal world with Alpha Females — a bold new free exhibition opening this September at Art Space Portsmouth.
+<p>Artist Cat. A invites audiences into her loud, funny, and deeply personal world with Alpha Females — a bold new free exhibition opening this September at Art Space Portsmouth.</p>
 
-The exhibition showcases Cat's text-based artworks created over the last two years — a mash-up of hand-painted slogans, overheard conversations, and private feelings blasted onto public objects. Whether it's a cardboard pyramid critiquing Reform UK while celebrating Shania Twain, or a flag confronting an ex's racist family members, Cat's work is deeply personal, sharply political, and disarmingly funny.
+<p>The exhibition showcases Cat's text-based artworks created over the last two years — a mash-up of hand-painted slogans, overheard conversations, and private feelings blasted onto public objects. Whether it's a cardboard pyramid critiquing Reform UK while celebrating Shania Twain, or a flag confronting an ex's racist family members, Cat's work is deeply personal, sharply political, and disarmingly funny.</p>
 
-Using discarded materials, charity shop finds, and whatever's hiding in someone's cupboard, Cat transforms everyday objects into protest banners, t-shirts, and emotional outbursts. Her pieces are painted in a distinct freeform capital-letter style using acrylics and Posca pens — raw, urgent, and unmistakably her own.
+<p>Using discarded materials, charity shop finds, and whatever's hiding in someone's cupboard, Cat transforms everyday objects into protest banners, t-shirts, and emotional outbursts. Her pieces are painted in a distinct freeform capital-letter style using acrylics and Posca pens — raw, urgent, and unmistakably her own.</p>
 
-Highlights include:
-* "Reasons Not to Call Him" — an artist's book of illustrated dating reflections, shown alongside 24 prints from its pages
-* Personal banners like "Hannah Smith Is My Religion"
-* Rants in paint about ex-boyfriends, the fear of scented candles, and Jacob Rees-Mogg
-* Bunting and flags reimagined as miniature protest sites
+<p>Highlights include:</p>
+<ul>
+<li>"Reasons Not to Call Him" — an artist's book of illustrated dating reflections, shown alongside 24 prints from its pages</li>
+<li>Personal banners like "Hannah Smith Is My Religion"</li>
+<li>Rants in paint about ex-boyfriends, the fear of scented candles, and Jacob Rees-Mogg</li>
+<li>Bunting and flags reimagined as miniature protest sites</li>
+</ul>
 
-While often humorous, the work digs deeper — exploring modern dating, identity, social justice, and the fine line between public performance and private catharsis. "My work is my therapy," Cat says, "but I hope people laugh. Or at least feel seen."
+<p>While often humorous, the work digs deeper — exploring modern dating, identity, social justice, and the fine line between public performance and private catharsis. "My work is my therapy," Cat says, "but I hope people laugh. Or at least feel seen."</p>
 
-Join Art Space Portsmouth for a no-filter artist's talk on Sunday 7 September, where Cat A will speak about her process, personal inspirations, and the sometimes absurd relationship between art, activism, and exes.
+<p>Join Art Space Portsmouth for a no-filter artist's talk on Sunday 7 September, where Cat A will speak about her process, personal inspirations, and the sometimes absurd relationship between art, activism, and exes.</p>
 
-Dates and times:
-Opening night: Friday 5 September, 5–9pm
-Exhibition runs: 6–21 September, Wednesdays to Sundays, 12–4pm
-Artist talk: Sunday 7 September, 2–4pm</description>
+<p>Dates and times:<br/>
+Exhibition runs: 6–21 September, Wednesdays to Sundays, 12–4pm</p>
+      ]]></description>
       <content:encoded><![CDATA[
-        <p><img src="https://www.visitportsmouth.co.uk/whats-on/alpha-females-p2651371" alt="Two women on Southsea Common. One is pregnant, the other holds a white banner on which red text reads: It's all lies" /></p>
+        <p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?image=%2Fdmsimgs%2FIAL_1466821801.jpg" alt="Two women on Southsea Common. One is pregnant, the other holds a white banner on which red text reads: It's all lies" /></p>
       ]]></content:encoded>
       <location>
         Venue Name: Art Space Portsmouth<br/>
@@ -44,6 +47,134 @@ Artist talk: Sunday 7 September, 2–4pm</description>
       <pubDate>Wed, 03 Sep 2025 00:00:00 +0100</pubDate>
       <startDate>Sat, 06 Sep 2025 12:00:00 +0100</startDate>
       <endDate>Sun, 21 Sep 2025 16:00:00 +0100</endDate>
+      <geo:lat></geo:lat>
+      <geo:long></geo:long>
+    </item>
+
+    <!-- Heritage Open Days - People and Places of WW1 -->
+    <item>
+      <title>Heritage Open Days - The people and places of World War 1</title>
+      <description><![CDATA[
+<p>The World War 1 Remembrance Centre in Portsmouth is dedicated to the eternal memory of those who fought and died in the conflict.</p>
+
+<p>The Centre houses many artefacts from World War 1 as well as models, memorabilia and displays telling the human stories behind the historical headlines. If, for instance, you don't know how World War 1 links the Titanic to Alice in Wonderland, you'll find out there!</p>
+
+<p>As well as offering free entry and a large free car park, the centre has volunteers that provide free guided tours of the centre, which is housed in a 160-year-old brick-built military bastion in the north of Portsmouth.</p>
+
+<p>Throughout the year, the centre opens from 11am to 2pm on Sundays and Tuesdays - Thursdays.</p>
+      ]]></description>
+      <content:encoded><![CDATA[
+        <p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?action=ProductDetailImage&image=%2Fdmsimgs%2FHODs_listing_257574817.jpg" alt="Image: Blue and white illustration of Architecture for Heritage Open Days 2025" /></p>
+      ]]></content:encoded>
+      <location>
+        Venue Name: World War 1 Remembrance Centre<br/>
+        Street: Bastion 6, Airport Service Road<br/>
+        City: Portsmouth<br/>
+        County: Hampshire<br/>
+        Postcode: PO3 5PJ
+      </location>
+      <link>https://www.visitportsmouth.co.uk/whats-on/heritage-open-days-the-people-and-places-of-world-war-1-p2655101</link>
+      <guid isPermaLink="true">https://www.visitportsmouth.co.uk/whats-on/heritage-open-days-the-people-and-places-of-world-war-1-p2655101</guid>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0100</pubDate>
+      <startDate>Sun, 14 Sep 2025 11:00:00 +0100</startDate>
+      <endDate>Thu, 18 Sep 2025 14:00:00 +0100</endDate>
+      <geo:lat></geo:lat>
+      <geo:long></geo:long>
+    </item>
+
+    <!-- Heritage Open Days - WWI Remembrance Centre -->
+    <item>
+      <title>Heritage Open Days - WWI Remembrance Centre</title>
+      <description><![CDATA[
+<p>The WW1 Remembrance Centre throws open its doors for the public with fascinating tours of its interesting and historically significant collection.</p>
+
+<p>The museum building has bombproof vaulted ceilings and was designed to provide gun emplacements protecting the guns and their crews against the forces of Napoleon. The guns were arranged in the gallery and the building also provided armament stores and nine accommodation rooms for the men. The museum now contains WW1 artefacts and exhibits from the founder's personal collection, together with donated items.</p>
+
+<p>On the day, volunteer guides will walk visitors through the timeline, offering up exciting and unusual stories from the Great War.</p>
+
+<p>With so much to see, many visitors return to the WW1 Remembrance Centre several times - there really is something for all ages.</p>
+
+<p>Many of the exhibits (but not all) have foreign language translations and a volunteer at the centre is able to communicate in BSL.</p>
+
+<p>With no mains supplies, the WW1 Remembrance Centre generates its own power, for everything from lighting to running model trains.</p>
+
+<p>Tours will take place between 11am and 3pm on the following dates in September: Sunday 14, Tuesday 16, Wednesday 17, Thursday 18, Sunday 21.</p>
+      ]]></description>
+      <content:encoded><![CDATA[
+        <p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?action=ProductDetailImage&image=%2Fdmsimgs%2FHODs_listing_1959983689.jpg" alt="Image: Illustration to promote Heritage Open Days' theme for 2025: architecture" /></p>
+      ]]></content:encoded>
+      <location>
+        Venue Name: World War 1 Remembrance Centre<br/>
+        Street: Bastion 6, Airport Service Road<br/>
+        City: Portsmouth<br/>
+        County: Hampshire<br/>
+        Postcode: PO3 5PJ
+      </location>
+      <link>https://www.visitportsmouth.co.uk/whats-on/heritage-open-days-wwi-remembrance-centre-p1334451</link>
+      <guid isPermaLink="true">https://www.visitportsmouth.co.uk/whats-on/heritage-open-days-wwi-remembrance-centre-p1334451</guid>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0100</pubDate>
+      <startDate>Sun, 14 Sep 2025 11:00:00 +0100</startDate>
+      <endDate>Sun, 21 Sep 2025 15:00:00 +0100</endDate>
+      <geo:lat></geo:lat>
+      <geo:long></geo:long>
+    </item>
+
+    <!-- Beaded Necklace Workshop -->
+    <item>
+      <title>Beaded Necklace Workshop</title>
+      <description><![CDATA[
+<p>Join artist Libbie Coulson from '26th of May' for a relaxed and creative necklace-making workshop, where you'll design and make your own beaded necklace using high-quality Czech fire-polished beads and Miyuki bugle beads.</p>
+
+<p>You'll finish your piece with a sterling silver clasp, giving it a polished, professional finish. This one-and-a-half to two hour session is perfect for beginners and jewellery lovers alike. We'll start by practising how to finish your necklace securely, giving you a chance to get confident before using your sterling silver findings. Once you've got the technique down, you'll move on to selecting your own colours and designing a necklace that reflects your personal style.</p>
+
+<p>Whether you're looking for a mindful creative moment, or hoping to leave with a meaningful handmade gift, this workshop offers a welcoming space to learn new skills, connect with others, and create something you'll be proud to wear.</p>
+
+<p>All materials are provided, and no previous experience is necessary.</p>
+      ]]></description>
+      <content:encoded><![CDATA[
+        <p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?action=ProductDetailImage&image=%2Fdmsimgs%2FVisit-portsmouth-necklaces_1243888346_1370082226.jpg" alt="Image: A number of beaded necklaces with different coloured beads." /></p>
+      ]]></content:encoded>
+      <location>
+        Venue Name: Hotwalls Studios (Studio 11)<br/>
+        Street: Broad Street<br/>
+        City: Portsmouth<br/>
+        County: Hampshire<br/>
+        Postcode: PO1 2FS
+      </location>
+      <link>https://www.visitportsmouth.co.uk/whats-on/beaded-necklace-workshop-p2632251</link>
+      <guid isPermaLink="true">https://www.visitportsmouth.co.uk/whats-on/beaded-necklace-workshop-p2632251</guid>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0100</pubDate>
+      <startDate>Wed, 03 Sep 2025 18:00:00 +0100</startDate>
+      <endDate>Sat, 20 Sep 2025 17:00:00 +0100</endDate>
+      <geo:lat></geo:lat>
+      <geo:long></geo:long>
+    </item>
+
+    <!-- The Simon and Garfunkel Story -->
+    <item>
+      <title>The Simon and Garfunkel Story</title>
+      <description><![CDATA[
+<p>Few shows have experienced the phenomenal global success of The Simon & Garfunkel Story. It has racked up multiple sold-out shows in over 50-countries worldwide, as well as more than 20 headline performances in London's West End, including multiple appearances at the world-famous London Palladium.</p>
+
+<p>Using huge projection photos and original film footage, the international hit show tells the story of the origins and meteoric rise of Simon & Garfunkel blended together seamlessly with a full live band performing all the hits, including Mrs Robinson, Cecilia, Bridge Over Troubled Water, Homeward Bound and many more.</p>
+
+<p>With standing ovations at every performance and the show Art Garfunkel himself loved, you don’t want to miss this international sensation.</p>
+      ]]></description>
+      <content:encoded><![CDATA[
+        <p><img src="https://eu-assets.simpleview-europe.com/portsmouth2020/imageresizer/?action=ProductDetailImage&image=%2Fdmsimgs%2FSimon_and_Garfunkel_640088184.jpg" alt="Image: Poster for The Simon and Garfunkel Story" /></p>
+      ]]></content:encoded>
+      <location>
+        Venue Name: New Theatre Royal<br/>
+        Street: 20-24 Guildhall Walk<br/>
+        City: Portsmouth<br/>
+        County: Hampshire<br/>
+        Postcode: PO1 2DD
+      </location>
+      <link>https://www.visitportsmouth.co.uk/whats-on/the-simon-and-garfunkel-story-p2622481</link>
+      <guid isPermaLink="true">https://www.visitportsmouth.co.uk/whats-on/the-simon-and-garfunkel-story-p2622481</guid>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0100</pubDate>
+      <startDate>Wed, 17 Sep 2025 19:30:00 +0100</startDate>
+      <endDate>Wed, 17 Sep 2025 19:30:00 +0100</endDate>
       <geo:lat></geo:lat>
       <geo:long></geo:long>
     </item>
